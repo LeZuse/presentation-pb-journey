@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# https://chat.openai.com/share/92c20954-9398-4455-9b2b-701979492ac1
+
 # Get the current directory
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
